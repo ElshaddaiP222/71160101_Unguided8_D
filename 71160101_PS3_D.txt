@@ -1,0 +1,8 @@
+Start
+Input n
+temp <- n
+while n>1 do n <- n - 1
+             temp <- temp*n
+while end
+output answer 
+end
