@@ -1,0 +1,2 @@
+2. Yang terisi lebih dulu gelas nomor 2, karena jalur air yang dilewati lebih pendek
+   daripada jalur yang lain, aliran air akan mengikuti pipa yang pertama ditemui. 
